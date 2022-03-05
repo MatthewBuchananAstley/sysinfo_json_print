@@ -1,0 +1,87 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+SPDXID: SPDXRef-DOCUMENT
+DocumentName: sysinfo_json_print.spdx
+DocumentNamespace: https://github.com:MatthewBuchananAstley/sysinfo_json_print.git
+Creator: Person: Matthew Buchanan Astley (matthewbuchanan@astley.nl)
+Created: 2022-03-05T11:52:52Z
+CreatorComment: sysinfo_json_print script spdx file
+
+#
+#
+
+PackageName: sysinfo_json_print
+SPDXID: SPDXRef-sysinfo_json_print.git-Package-sysinfo-json-print
+PackageVersion: 1.0
+PackageVerificationCode: 82b6a678a60400cc795427a51e34400410712eba (./sysinfo_json_print.spdx excluded )
+PackageLicenseDeclared: GPL-3.0-or-later
+PackageLicenseInfoFromFiles: LicenseRef-GPL-3.0-or-later
+PackageLicenseConcluded: LicenseRef-GPL-3.0-or-later
+PackageCopyrightText: <text> 2019 - 2022 Matthew Buchanan Astley (matthewbuchanan@astley.nl) </text> 
+PackageDownloadLocation: https://github.com:MatthewBuchananAstley/sysinfo_json_print.git
+
+#
+#
+#
+
+FileName: ./README.md
+SPDXID: SPDXRef-README.md
+FileType: TEXT
+FileChecksum: SHA256: 98cbb89f06fef57fd7dcd76ec6772b29bab7b4d543fb2a33f7b8d0230683681f
+FileChecksum: SHA1: 5c64a0f67c4119a08499036871b770ff3117787b
+FileCopyrightText: <text> 2019 - 2022 Matthew Buchanan Astley (matthewbuchanan@astley.nl) </text> 
+LicenseInfoInFile: NOASSERTION
+LicenseConcluded: NOASSERTION
+
+#
+#
+#
+
+FileName: ./CHANGELOG
+SPDXID: SPDXRef-CHANGELOG
+FileType: TEXT
+FileChecksum: SHA256: 809607d86d60fec247e54feb525736e668932ba8e8765844d133ce40dd3793d3
+FileChecksum: SHA1: a1b8a5c83fc3333453ace16d34db362b9c42fd38
+FileCopyrightText: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+LicenseConcluded: NOASSERTION
+
+#
+#
+#
+
+FileName: ./cpuinfo.py
+SPDXID: SPDXRef-cpuinfo.py
+FileType: APPLICATION
+FileChecksum: SHA256: e903caf37d3084a0cd0d080702633f22fc43ab56bc8df594c1717aa034652d82
+FileChecksum: SHA1: aee32267fdea21a14f7a8c02a11e650b9d7fe78c
+FileCopyrightText: <text> 2019 - 2022 Matthew Buchanan Astley (matthewbuchanan@astley.nl) </text> 
+LicenseInfoInFile: GPL-3.0-or-later
+LicenseConcluded: GPL-3.0-or-later
+
+#
+#
+#
+
+FileName: ./sysinfo_json_print.py
+SPDXID: SPDXRef-sysinfo-json-print.py
+FileType: APPLICATION
+FileChecksum: SHA256: dfb40f475283fcb36464e2e2dd2ed919a6d04864c0204b74e484f20cd65b8ca1
+FileChecksum: SHA1: 7ddc080289c309bcb93acd27cf8b6521bb8a5586
+FileCopyrightText: <text> 2019 - 2022 Matthew Buchanan Astley (matthewbuchanan@astley.nl) </text> 
+LicenseInfoInFile: GPL-3.0-or-later
+LicenseConcluded: GPL-3.0-or-later
+
+#
+#
+#
+
+FileName: ./meminfo.py
+SPDXID: SPDXRef-meminfo.py
+FileType: APPLICATION
+FileChecksum: SHA256: 907259e7ae8d78a6fafc4c0adb71f18701cd43632c08f2b38216c69b844ec265
+FileChecksum: SHA1: af7ed16f94dd8e16799e92c6aa6d1dd8edbfd7ca
+FileCopyrightText: <text> 2019 - 2022 Matthew Buchanan Astley (matthewbuchanan@astley.nl) </text> 
+LicenseInfoInFile: GPL-3.0-or-later
+LicenseConcluded: GPL-3.0-or-later
+
